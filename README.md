@@ -1,1 +1,11 @@
-# portfolio-pessoal-2c
+# Projeto - Portfólio para escrita do README
+
+## Descrição
+
+## Funcionalidades
+
+### Tecnologias utilizadas
+
+## Fontes consultadas
+
+## Autores
