@@ -12,6 +12,8 @@
 
 ## 📋 Descrição
 
+Este projeto visa o estudo do framework Bootstrap para uso de modelo responsivo, no desenvolvimento de páginas web.
+
 ## 🔧 Funcionalidades
 
 ### 🛠️ Tecnologias utilizadas
